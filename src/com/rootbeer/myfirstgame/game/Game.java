@@ -16,6 +16,11 @@ public class Game {
 	
 	public void startGame() {
 		
+		boolean gameComplete = false;
+		while (!gameComplete) {
+			
+		}
+		
 	}
 	
 }
